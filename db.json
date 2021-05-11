@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todo": [
+    {
+      "text": "dkfsldf",
+      "done": true,
+      "id": 5
+    },
+    {
+      "text": "설거지하기",
+      "done": false,
+      "id": 7
+    },
+    {
+      "text": "이ㅏㅇ눔",
+      "done": false,
+      "id": 8
+    }
+  ]
+}
